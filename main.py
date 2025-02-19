@@ -2,7 +2,7 @@
 import pandas as pd
 import os
 
-path_geral = os.path.normpath('C:/Users/Administrador/OneDrive - echope/Documentos/demanda/Vendas/nova_venda')
+path_geral = os.path.normpath('')
 pastas = ['Fevereiro', 'Março', 'Abril', 'Maio',
           'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro']
 
